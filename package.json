@@ -1,8 +1,10 @@
 {
+
+  "name": "@username/hubot-hipchat",
   "name": "hubot-hipchat",
-  "version": "2.12.0-6",
-  "author": "HipChat <support@hipchat.com>",
-  "description": "A HipChat adapter for Hubot",
+  "version": "2.12.1",
+  "author": "Andrew McCall <andrew@andrewmccall.com>",
+  "description": "A Fork of the HipChat adapter for Hubot",
   "keywords": [
     "hipchat",
     "hubot",
@@ -12,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/hipchat/hubot-hipchat.git"
+    "url": "http://github.com/andrewmccall/hubot-hipchat.git"
   },
   "license": "MIT",
   "main": "./src/hipchat",
