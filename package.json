@@ -1,6 +1,6 @@
 {
 
-  "name": "@andrewmccall/hubot-hipchat",
+  "name": "hubot-hipchat-andrewmccall",
   "version": "2.12.1",
   "author": "Andrew McCall <andrew@andrewmccall.com>",
   "description": "A Fork of the HipChat adapter for Hubot",
